@@ -1,0 +1,42 @@
+@media(max-width:1100px){
+    .header .max-width .form_buscar .box_input{
+        width: 50.4rem;
+    }
+
+    .header .max-width .form_buscar .box_input .inputBuscar{
+        width: 100%;
+    }
+
+    .header .max-width .botao_entra{
+        width: 15.8rem;
+        height: 4.4rem;
+        line-height: 4.4rem;
+        font-size: 1.7rem;
+    }
+}
+
+@media(max-width:768px){
+    .header .max-width .form_buscar .box_input{
+        width: 35.4rem;
+    }
+
+    .header .max-width .form_buscar .box_input .inputBuscar{
+        width: 100%;
+    }
+}
+
+@media(max-width:500px){
+    .header .max-width .form_buscar .box_input{
+        width: 30.4rem;
+    }
+
+    .header .max-width .form_buscar .box_input .inputBuscar{
+        width: 100%;
+    }
+}
+
+@media(max-width:425px){
+    .header .max-width .form_buscar .box_input{
+        display: none;
+    }
+}

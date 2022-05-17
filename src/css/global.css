@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700&display=swap');
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css");
+
+:root{
+    --color-white:#fff;
+    --color-gray:#E7E7E7;
+    --color-blue:#3772FF;
+    --color-gray-200: #737373;
+    --color-black:#0C0C0C;
+
+    --fonte-inter:'Inter', sans-serif;
+    --fonte-Nunito:'Nunito', sans-serif;
+}
+
+/* .header .max-width .botao_entra,
+.exposicao .ultima_colecoes .saiba_mais,
+.principal .box-secao .sobre .btn_explorar{
+    width: 18.8rem;
+    height: 4.4rem;
+    line-height: 4.4rem;
+    text-align: center;
+    background: var(--color-blue);
+    display: block;
+    color: var(--color-white);
+    border-radius: .4rem;
+    font-family: var(--fonte-Nunito);
+    font-weight: bold;
+    font-size: 2rem;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.2);
+    transition:.3s ease-in-out;
+}
+
+.header .max-width .botao_entra:hover,
+.principal .box-secao .sobre .btn_explorar:hover,
+.exposicao .ultima_colecoes .saiba_mais:hover{
+    transform: scale(.9);
+} */
+
+body{
+    background: #CCC;
+}
+
+html{
+    font-size: 62.5%;
+}
